@@ -1,4 +1,4 @@
-# GET Weather from ***http://openweathermap.org***
+# GET Weather Data from http://openweathermap.org
 
 - Used Javascript Promise To Fetch Weather Data for Few Location
 
